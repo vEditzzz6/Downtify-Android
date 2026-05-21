@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Downtify</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="nav_player">Reproductor</string>
+    <string name="home_title">Descargar Música</string>
+    <string name="home_subtitle">Pega un enlace de Spotify para descargar</string>
+    <string name="btn_download">Descargar</string>
+    <string name="btn_download_all">Descargar Todo</string>
+    <string name="search_hint">Buscar en YouTube Music...</string>
+    <string name="library_title">Mi Biblioteca</string>
+    <string name="library_empty">Sin descargas aún</string>
+    <string name="player_now_playing">Reproduciendo</string>
+    <string name="monitor_title">Monitor de Listas</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_format">Formato de Salida</string>
+    <string name="settings_bitrate">Tasa de Bits</string>
+    <string name="settings_organize">Organizar por Artista</string>
+    <string name="settings_language">Idioma</string>
+</resources>
